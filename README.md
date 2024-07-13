@@ -1,4 +1,4 @@
-### discord-webhook
+### discord-messenger
 
 - This program allows you to send messages using curl to a discord channel through a webhook.
 
