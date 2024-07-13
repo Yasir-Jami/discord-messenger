@@ -6,4 +6,4 @@
 
 - The webhook url must be specified on line 29 of postdiscord.c: char* url.
 
-- Compile program with "make", and use program with ./post <message>. Spaces are allowed.
+- Compile program with "make", and use program with ./post \<message>. Spaces are allowed.
